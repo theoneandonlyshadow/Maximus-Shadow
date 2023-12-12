@@ -77,11 +77,8 @@ Note: 𝐌aximus Shadow is **not** an open source project. It's source code will
 
         sentiment: ^5.0.2
 
-<!--
 ## Usage
-
-Computes complex and difficult mathematical inputs and displays in user friendly mode. This is also used to improve and enhance the quality of [Vermillion](https://github.com/theoneandonlyshadow/Scarlett-Vermillion/) and [Shadow](https://github.com/theoneandonlyshado/Maximus-Shadow/) to provide better and understandable responses.
-
+Studies user's behaviour for the ML dataset. This is used to improve and enhance the quality of [Vermillion](https://github.com/theoneandonlyshadow/Scarlett-Vermillion/) and to provide better and understandable responses.
 With the powerful features of Sentiment Analysis, MaxTac is able to understand the user's emotions and responses are sent accordingly.
 
 **Please note that MaxTac or any of my projects do not share/reveal/track or store user's data in any way. I have full control in all of my projects including MaxTac.**
@@ -96,7 +93,7 @@ This is a Closed Source Project. Henceforth, source code will not be public. Ple
 
 ## Important
 
-This is a closed source project. Source code will not be public. It is done so to protect the integrity of MaxTac without the fear of getting stolen or improvised and avoid reselling without any credit for the actual author (me).
+This is a closed source project. Source code will not be public. It is done so to protect the integrity of MaxTac without the fear of getting stolen or improvised and avoid reselling without any credit for the actual author (me). Any data that is collected by MaxTac is encrypted in `AES 256` in `CBC` mode.
 
 However, dependencies and installation process will be shared in some time to recreate the project on your own.
 
