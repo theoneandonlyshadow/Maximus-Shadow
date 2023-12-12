@@ -46,6 +46,8 @@ Note: 𝐌aximus Shadow is **not** an open source project. It's source code will
 
         Node.js v21.3.0
         Visual Studio Code
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 - APIs:
   
@@ -55,13 +57,9 @@ Note: 𝐌aximus Shadow is **not** an open source project. It's source code will
 
         Discord.js
 
-        
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 - Dependencies:
-  
-
-
-
 
         axios: ^1.6.2
 
@@ -71,11 +69,12 @@ Note: 𝐌aximus Shadow is **not** an open source project. It's source code will
 
         mongodb": ^6.1.0
 
-
-
         nodemon: ^3.0.2
 
         sentiment: ^5.0.2
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 
 ## Usage
 Studies user's behaviour for the ML dataset. This is used to improve and enhance the quality of [Vermillion](https://github.com/theoneandonlyshadow/Scarlett-Vermillion/) and to provide better and understandable responses.
