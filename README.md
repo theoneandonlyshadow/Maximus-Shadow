@@ -10,12 +10,6 @@
     A Machine Learning Intelligence with a spark of sentiment analysis
     <br/>
     <br/>
-    <br/>
-    <a href="https://github.com/theoneandonlyshadow/Alexandrite-Magnus">View Demo</a>
-    .
-    <a href="https://github.com/theoneandonlyshadow/Alexandrite-Magnus/issues">Report Bug</a>
-    .
-    <a href="https://github.com/theoneandonlyshadow/Alexandrite-Magnus/issues">Request Feature</a>
   </p>
 </p>
 
