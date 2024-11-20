@@ -4,7 +4,7 @@
   <h3 align="center">Maximus Shadow</h3>
 
   <p align="center">
-    A Machine Learning Intelligence with a spark of NLP
+    An Automation Intelligence with a spark of NLP
     <br/>
     <br/>
   </p>
